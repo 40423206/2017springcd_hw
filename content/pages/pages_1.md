@@ -1,17 +1,8 @@
 Title: About
 
-##2017Spring 機械設計工程系協同產品設計實習
-
-課程倉儲: <a href="http://github.com/mdecourse/2017springcd">http://github.com/mdecourse/2017springcd</a>
-
-課程投影片: <a href="http://mdecourse.github.io/2017springcd">http://mdecourse.github.io/2017springcd</a>
-
-課程網誌: <a href="http://mdecourse.github.io/2017springcd/blog">http://mdecourse.github.io/2017springcd/blog</a>
-
-
-
-
-
-
-
+<h3>NFU-MDE104B-40423206</h3>
+<p>倉儲: <a href="https://github.com/40423206/2017springcd_hw">https://github.com/40423206/2017springcd_hw</a></p>
+<p>簡報: <a href="https://40423206.github.io/2017springcd_hw">https://40423206.github.io/2017springcd_hw</a></p>
+<p>網誌: <a href="https://40423206.github.io/2017springcd_hw/blog/">https://40423206.github.io/2017springcd_hw/blog/</a></p>
+<p>Vimeo: <a href="https://vimeo.com/user46807821">https://vimeo.com/user63507357</a></p>
 
