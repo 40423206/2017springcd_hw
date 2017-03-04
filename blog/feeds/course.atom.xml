@@ -1,5 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-03-01T11:00:00+08:00</updated><entry><title>2017Spring 協同產品設計實習第1週</title><link href="./20170301spring-cd.html" rel="alternate"></link><published>2017-03-01T11:00:00+08:00</published><updated>2017-03-01T11:00:00+08:00</updated><author><name>40423206</name></author><id>tag:,2017-03-01:./20170301spring-cd.html</id><summary type="html">&lt;iframe src="https://player.vimeo.com/video/206162415" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-03-04T11:00:00+08:00</updated><entry><title>20170301 Week 2</title><link href="./20170301spring-cd.html" rel="alternate"></link><published>2017-03-04T11:00:00+08:00</published><updated>2017-03-04T11:00:00+08:00</updated><author><name>40423206</name></author><id>tag:,2017-03-04:./20170301spring-cd.html</id><summary type="html">&lt;p&gt;分組座位原始碼&lt;/p&gt;
+
+&lt;pre class="brush: python"&gt;
+#import os
+adata = open("w2b_cadlab.txt", encoding="utf-8").read()
+rdata = open("w2b_registered.txt", encoding="utf-8").read().splitlines()
+#print(adata)
+alist = adata.splitlines()
+#print(alist[2])
+n = 0
+row = 0
+final_list = []
+w2_list = []
+for stud_num in alist[2:]:
+    row = row + 1
+    blist = stud_num.split("\t")
+    #print(blist)
+    column = 0
+    for i in range(len(blist)):
+        column = column + 1
+        if blist[i] != "":
+            #print(blist[i])
+            clist = blist[i].split("_")
+            stud_data = clist[0]+"_"+clist[1]+"_"+str(row)+"_"+str(column)
+            final_list.append(stud_data)
+            w2_list.append(clist[1])
+            n = n +1
+# 根據數列前導字串排序, 目的在建立分組數列
+group_list = sorted(final_list)
+print("分組名單:")
+for i in range(len(group_list)):
+    print(group_list[i])
+print("座位列表:")
+for i in range(len(final_list)):
+    print(final_list[i])
+for i in range(len(rdata)):
+    if rdata[i] not in w2_list:
+        print("缺席學生:", rdata[i])
+print("學生總數:", n)
+#print(os.environ)
+&lt;/pre&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/206177676" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/206177676"&gt;Week 2_Fourbar&lt;/a&gt; from &lt;a href="https://vimeo.com/user46807821"&gt;NFU-MDE104B-40423226&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Fourbar
+利用Solvespace 畫出簡單的四連桿機構, 觀察該機構的運動方式, 也可以匯出到V-rep 進行動態模擬&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/206682300" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/206682300"&gt;20170304_Week2_fourbar&lt;/a&gt; from &lt;a href="https://vimeo.com/user63507357"&gt;40423206&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="brython"></category><category term="w2"></category></entry><entry><title>2017Spring 協同產品設計實習第1週</title><link href="./20170301spring-cd.html" rel="alternate"></link><published>2017-03-01T11:00:00+08:00</published><updated>2017-03-01T11:00:00+08:00</updated><author><name>40423206</name></author><id>tag:,2017-03-01:./20170301spring-cd.html</id><summary type="html">&lt;iframe src="https://player.vimeo.com/video/206162415" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="https://vimeo.com/206162415"&gt;设定ip&amp;amp;开启leo&lt;/a&gt; from &lt;a href="https://vimeo.com/user63507357"&gt;40423206&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="brython"></category><category term="w1"></category></entry><entry><title>協同產品設計實習第1週任務</title><link href="./brython-2d-drawing.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-02-22:./brython-2d-drawing.html</id><summary type="html">&lt;p&gt;網際協同設計資料整合, 網際 2D 程式繪圖回顧&lt;/p&gt;
 

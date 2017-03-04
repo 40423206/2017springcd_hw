@@ -36,19 +36,29 @@
 <v t="yen.20170120110024.7"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
+<v t="yen.20170120110024.11"><vh>20170222Week1</vh>
+<v t="yen.20170120110024.12" a="E"><vh>课堂报告</vh>
+<v t="yen.20170120110024.13"><vh>内容</vh></v>
+</v>
+</v>
+<v t="leo.20170304163233.1"><vh>20170304Week2</vh>
+<v t="leo.20170304163233.2"><vh>课堂报告1</vh>
+<v t="leo.20170304163233.3"><vh>内容</vh></v>
+</v>
+<v t="leo.20170304163346.1"><vh>课堂报告2</vh>
+<v t="leo.20170304163346.2"><vh>内容</vh></v>
+</v>
+<v t="leo.20170304163428.1"><vh>Fourbar</vh>
+<v t="leo.20170304163428.2"><vh>影片</vh></v>
+</v>
+</v>
+<v t="leo.20170304163543.1"><vh>20170311Week3</vh>
+<v t="leo.20170304163543.2"><vh>课堂报告</vh>
+<v t="leo.20170304163543.3"><vh>内容</vh></v>
+</v>
+</v>
 <v t="yen.20170120110024.9"><vh>快捷鍵</vh>
 <v t="yen.20170120110024.10"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="yen.20170120110024.11"><vh>各式內容引用範例</vh>
-<v t="yen.20170120110024.12" a="E"><vh>導入數學符號與方程式</vh>
-<v t="yen.20170120110024.13"><vh>LaTeX 格式方程式</vh></v>
-</v>
-<v t="yen.20170120110024.14" a="E"><vh>導入縮排程式碼</vh>
-<v t="yen.20170120110024.15"><vh>引用程式碼</vh></v>
-</v>
-<v t="yen.20170120110024.16" a="E"><vh>導入影片</vh>
-<v t="yen.20170120110024.17"><vh>iframe 導入影片</vh></v>
-</v>
 </v>
 </v>
 </v>
@@ -56,7 +66,8 @@
 </v>
 </v>
 <v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
-<v t="leo.20170301111007.1"><vh>@edit 20170301.md</vh></v>
+<v t="leo.20170301111007.1"><vh>@edit 20170304.md</vh></v>
+<v t="leo.20170304162523.1"><vh>@edit 20170222.md</vh></v>
 <v t="yen.20170123225841.1"><vh>@edit 20170108.md</vh></v>
 <v t="yen.20170207091131.1"><vh>@clean 20170207.md</vh>
 <v t="yen.20170207091131.2"><vh>ex1 - for 迴圈</vh></v>
@@ -94,6 +105,81 @@
 <v t="yen.20170209024032.1"><vh>reference</vh></v>
 </vnodes>
 <tnodes>
+<t tx="leo.20170304163233.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170304163233.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170304163233.3"># Week 2
+
+1.stunnel.conf與實體IP對應 請各種至少啟動一台https Fossil主機
+
+2.啟動後以https://IP/2017springvcp_hw連結
+
+3.帳號:cadlab密碼:2017springvcp_hw
+
+4.進入https://ethercalc.org/4lirnzbeh0fl寫各組座位表
+
+5.說明如何利用 Ethercalc 以即時模式取得各學員座號與組別, 之後再將資料輸出 (複製) 成 txt 檔案後, 以 Python3 程式整理成分組數列與座位數列, 以便在後續建立協同歷程記錄時使用，以及找出缺席同學名單
+
+6.利用協同完成Solvespace4連桿機構組立</t>
+<t tx="leo.20170304163346.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170304163346.2">4.進入https://ethercalc.org/4lirnzbeh0fl寫各組座位表
+
+5.說明如何利用 Ethercalc 以即時模式取得各學員座號與組別, 之後再將資料輸出 (複製) 成 txt 檔案後, 以 Python3 程式整理成分組數列與座位數列, 以便在後續建立協同歷程記錄時使用，以及找出缺席同學名單
+
+6.利用協同完成Solvespace4連桿機構組立
+</t>
+<t tx="leo.20170304163428.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170304163428.2"># Fourbar
+
+&lt;iframe src="https://player.vimeo.com/video/206682300" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/206682300"&gt;20170304_Week2_fourbar&lt;/a&gt; from &lt;a href="https://vimeo.com/user63507357"&gt;40423206&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170304163543.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170304163543.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170304163543.3"># Week 3
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -271,67 +357,22 @@ make.start()</t>
 
 						
 </t>
-<t tx="yen.20170120110024.13"># 數學符號與方程式
+<t tx="yen.20170120110024.13"># Week 1
 
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
+tiny2017 - with_pip\data\stunnel\config的stunnel.conf檔案
 
-$$I = \int \rho R^{2} dV$$
-</t>
-<t tx="yen.20170120110024.14">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
+stunnel.conf移到SciTE
 
+程式碼前面是分號 就是註解不會執行那段程式碼
 
+利用cmd查IP(ipconfig /all)
 
-						
-</t>
-<t tx="yen.20170120110024.15">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
+將https的IP改為電腦的IP(第138行)
 
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="yen.20170120110024.16">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
+443是https內建的port號, 不用改
 
-
-						
-</t>
-<t tx="yen.20170120110024.17">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+因為有用proxy所以要指定192.168.1.49的IP不要經過proxy                                              
+Chrome proxy設定&gt;LAN設定&gt;進階</t>
 <t tx="yen.20170120110024.2">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 @others
