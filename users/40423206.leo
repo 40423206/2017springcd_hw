@@ -27,13 +27,13 @@
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.1"><vh>@clean index.html</vh>
-<v t="yen.20170120110024.2"><vh>html</vh>
+<v t="yen.20170120110024.1" a="E"><vh>@clean index.html</vh>
+<v t="yen.20170120110024.2" a="E"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
-<v t="yen.20170120110024.4"><vh>body</vh>
-<v t="yen.20170120110024.5"><vh>reveal div</vh>
-<v t="yen.20170120110024.6"><vh>slides div</vh>
-<v t="yen.20170120110024.7"><vh>封面投影片</vh>
+<v t="yen.20170120110024.4" a="E"><vh>body</vh>
+<v t="yen.20170120110024.5" a="E"><vh>reveal div</vh>
+<v t="yen.20170120110024.6" a="E"><vh>slides div</vh>
+<v t="yen.20170120110024.7" a="E"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20170304121248.1"><vh>快捷鍵</vh>
@@ -100,7 +100,7 @@
 </v>
 </v>
 <v t="yen.20170209024032.1"><vh>reference</vh></v>
-<v t="leo.20170304172032.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170304172032.2"><vh>Recovered Nodes</vh>
 <v t="leo.20170304172032.3"><vh>Recovered node "封面投影片" from @clean index.html</vh>
 <v t="leo.20170304172032.4"><vh>old:封面投影片</vh></v>
 <v t="leo.20170304172032.5"><vh>new:封面投影片</vh></v>
@@ -963,7 +963,7 @@ make.start()</t>
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
+Created by [40423206](https://40423206.github.io/2017springcd_hw/blog/)
 &lt;/small&gt;
 
 [協同產品設計實習課程網誌](blog/index.html)
