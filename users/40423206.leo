@@ -39,20 +39,35 @@
 <v t="leo.20170304121248.1"><vh>快捷鍵</vh>
 <v t="leo.20170304121248.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20170304121232.1"><vh>20170222Week1</vh>
+<v t="leo.20170304121232.1" a="E"><vh>20170222Week1</vh>
 <v t="leo.20170304121232.2"><vh>課堂報告1</vh>
 <v t="leo.20170304121232.3"><vh>上課內容1</vh></v>
 </v>
 </v>
-<v t="leo.20170304121240.1"><vh>20170301Week2</vh>
-<v t="leo.20170304121240.2"><vh>課堂報告1</vh>
+<v t="leo.20170304121240.1" a="E"><vh>20170301Week2</vh>
+<v t="leo.20170304121240.2" a="E"><vh>課堂報告1</vh>
 <v t="leo.20170304121240.3"><vh>上課內容1</vh></v>
 </v>
-<v t="leo.20170304132216.1"><vh>課堂報告2</vh>
+<v t="leo.20170304132216.1" a="E"><vh>課堂報告2</vh>
 <v t="leo.20170304132216.2"><vh>上課內容2</vh></v>
 </v>
 <v t="leo.20170304121240.6"><vh>fourbar</vh>
 <v t="leo.20170304121240.7"><vh>影片</vh></v>
+</v>
+</v>
+<v t="leo.20170325114413.1" a="E"><vh>20170308Week3</vh>
+<v t="leo.20170325114413.2" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170325114413.3"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170325114415.1" a="E"><vh>20170315Week4</vh>
+<v t="leo.20170325114415.2" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170325114415.3"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170325114417.1" a="E"><vh>20170322Week5</vh>
+<v t="leo.20170325114417.2" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170325114417.3"><vh>上課內容1</vh></v>
 </v>
 </v>
 <v t="leo.20170304121220.1"><vh>各式內容引用範例</vh>
@@ -76,6 +91,7 @@
 <v t="leo.20170304120513.1"><vh>@edit 20170301.md</vh></v>
 <v t="leo.20170312133423.1"><vh>@edit 20170308.md</vh></v>
 <v t="leo.20170319124931.1"><vh>@edit 20170315.md</vh></v>
+<v t="leo.20170325113943.1"><vh>@edit 20170322.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -724,6 +740,77 @@ Diff...
   
   
   						
+</t>
+<t tx="leo.20170325114413.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170325114413.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170325114413.3"># Week 3
+
+&lt;p align="left"&gt;
+1. 完成看影片打出英文稿&lt;/p&gt;
+
+&lt;p align="left"&gt;
+2. 練習在近端建立 fossil&lt;/p&gt;
+</t>
+<t tx="leo.20170325114415.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170325114415.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170325114415.3"># Week 4
+
+&lt;p align="left"&gt;
+1. 建立協同主機 2017springcd_bg1 : &lt;a href="https://mde2a2.kmol.info/cdbg1"&gt;https://mde2a2.kmol.info/cdbg1&lt;/a&gt; &lt;/p&gt;
+
+&lt;p align="left"&gt;
+2. 繪製單桿機構&lt;/p&gt;
+
+&lt;iframe src="data/onebar/onebar.html" width="800" height="480"&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20170325114417.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170325114417.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170325114417.3"># Week 5
+
+&lt;p align="left"&gt;
+1. Fossil SCM 與 Stunnel 啟動整合&lt;/p&gt;
+
+&lt;p align="left"&gt;
+2. SolveSpace 匯出 onebar 並在 V-rep 加入馬達&lt;/p&gt;
 </t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
