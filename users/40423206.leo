@@ -33,48 +33,53 @@
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
 <v t="yen.20170120110024.5" a="E"><vh>reveal div</vh>
 <v t="yen.20170120110024.6" a="E"><vh>slides div</vh>
-<v t="yen.20170120110024.7" a="E"><vh>封面投影片</vh>
+<v t="yen.20170120110024.7"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20170304121248.1"><vh>快捷鍵</vh>
 <v t="leo.20170304121248.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20170304121232.1" a="E"><vh>20170222Week1</vh>
+<v t="leo.20170304121232.1"><vh>20170222Week1</vh>
 <v t="leo.20170304121232.2"><vh>課堂報告1</vh>
 <v t="leo.20170304121232.3"><vh>上課內容1</vh></v>
 </v>
 </v>
-<v t="leo.20170304121240.1" a="E"><vh>20170301Week2</vh>
-<v t="leo.20170304121240.2" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170304121240.1"><vh>20170301Week2</vh>
+<v t="leo.20170304121240.2"><vh>課堂報告1</vh>
 <v t="leo.20170304121240.3"><vh>上課內容1</vh></v>
 </v>
-<v t="leo.20170304132216.1" a="E"><vh>課堂報告2</vh>
+<v t="leo.20170304132216.1"><vh>課堂報告2</vh>
 <v t="leo.20170304132216.2"><vh>上課內容2</vh></v>
 </v>
 <v t="leo.20170304121240.6"><vh>fourbar</vh>
 <v t="leo.20170304121240.7"><vh>影片</vh></v>
 </v>
 </v>
-<v t="leo.20170325114413.1" a="E"><vh>20170308Week3</vh>
-<v t="leo.20170325114413.2" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170325114413.1"><vh>20170308Week3</vh>
+<v t="leo.20170325114413.2"><vh>課堂報告1</vh>
 <v t="leo.20170325114413.3"><vh>上課內容1</vh></v>
 </v>
 </v>
-<v t="leo.20170325114415.1" a="E"><vh>20170315Week4</vh>
-<v t="leo.20170325114415.2" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170325114415.1"><vh>20170315Week4</vh>
+<v t="leo.20170325114415.2"><vh>課堂報告1</vh>
 <v t="leo.20170325114415.3"><vh>上課內容1</vh></v>
 </v>
 </v>
-<v t="leo.20170325114417.1" a="E"><vh>20170322Week5</vh>
-<v t="leo.20170325114417.2" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170325114417.1"><vh>20170322Week5</vh>
+<v t="leo.20170325114417.2"><vh>課堂報告1</vh>
 <v t="leo.20170325114417.3"><vh>上課內容1</vh></v>
 </v>
 </v>
-<v t="leo.20170304121220.1"><vh>各式內容引用範例</vh>
-<v t="leo.20170304121220.2"><vh>導入數學符號與方程式</vh>
+<v t="leo.20170404170806.1"><vh>20170322Week6</vh>
+<v t="leo.20170404170806.2"><vh>課堂報告1</vh>
+<v t="leo.20170404170806.3"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170304121220.1" a="E"><vh>各式內容引用範例</vh>
+<v t="leo.20170304121220.2" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20170304121220.3"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20170304121220.4"><vh>導入縮排程式碼</vh>
+<v t="leo.20170304121220.4" a="E"><vh>導入縮排程式碼</vh>
 <v t="leo.20170304121220.5"><vh>引用程式碼</vh></v>
 </v>
 <v t="leo.20170304121220.6"><vh>導入影片</vh>
@@ -86,12 +91,13 @@
 </v>
 </v>
 </v>
-<v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
+<v t="yen.20170108171733.71"><vh>@path content</vh>
 <v t="leo.20170226215021.1"><vh>@edit 20170222.md</vh></v>
 <v t="leo.20170304120513.1"><vh>@edit 20170301.md</vh></v>
 <v t="leo.20170312133423.1"><vh>@edit 20170308.md</vh></v>
 <v t="leo.20170319124931.1"><vh>@edit 20170315.md</vh></v>
 <v t="leo.20170325113943.1"><vh>@edit 20170322.md</vh></v>
+<v t="leo.20170404170456.1"><vh>@edit 20170329.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -100,7 +106,7 @@
 </v>
 <v t="yen.20170108171930.1"><vh>@button https server</vh></v>
 <v t="yen.20170108171939.1"><vh>@button ipv6 https server</vh></v>
-<v t="yen.20170120212350.1" a="E"><vh>programs</vh>
+<v t="yen.20170120212350.1"><vh>programs</vh>
 <v t="yen.20170210153828.1"><vh>v-rep rempte api</vh>
 <v t="yen.20170210202015.1"><vh>Python remote API</vh></v>
 <v t="yen.20170210170248.1"><vh>line tracer</vh></v>
@@ -113,7 +119,7 @@
 <v t="yen.20170120232548.1"><vh>calendar example</vh></v>
 <v t="yen.20170123204227.1"><vh>印出月曆以及各課程上課日期</vh></v>
 <v t="yen.20170207092354.1"><vh>協同程式參考</vh></v>
-<v t="yen.20170124102405.1" a="E"><vh>chat</vh>
+<v t="yen.20170124102405.1"><vh>chat</vh>
 <v t="yen.20170124102433.1"><vh>index.html</vh></v>
 </v>
 </v>
@@ -193,7 +199,12 @@
 						
 &lt;/section&gt;
 </t>
-<t tx="leo.20170304121220.3"># Week 3
+<t tx="leo.20170304121220.3"># 數學符號與方程式
+
+Inline math equations go in like so: $\omega = d\phi / dt$. Display
+math should get its own line and be put in in double-dollarsigns:
+
+$$I = \int \rho R^{2} dV$$
 </t>
 <t tx="leo.20170304121220.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -812,6 +823,30 @@ Diff...
 &lt;p align="left"&gt;
 2. SolveSpace 匯出 onebar 並在 V-rep 加入馬達&lt;/p&gt;
 </t>
+<t tx="leo.20170404170806.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170404170806.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170404170806.3"># Week 6
+
+&lt;p align="left"&gt;
+1. 在 Onshape 及 SolveSpace 繪製出 Onebar 及 Fourbar&lt;/p&gt;
+
+&lt;p align="left"&gt;
+2. 將 Fourbar 匯入 V-rep 加入馬達&lt;/p&gt;
+
+&lt;iframe src="https://vimeo.com/211452012" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
