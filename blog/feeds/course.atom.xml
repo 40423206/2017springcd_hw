@@ -58,7 +58,13 @@ ctx.strokeStyle = "blue"
 # 實際執行畫線
 ctx.stroke()
 ctx.closePath()
-&lt;/script&gt;</summary><category term="SolveSpace"></category><category term="Onshape"></category><category term="Fossil"></category></entry><entry><title>20170329 Week 6</title><link href="./Week%206.html" rel="alternate"></link><published>2017-03-29T11:00:00+08:00</published><updated>2017-03-29T11:00:00+08:00</updated><author><name>40423206</name></author><id>tag:,2017-03-29:./Week 6.html</id><summary type="html">&lt;h3&gt;Fourbar 安裝 base&lt;/h3&gt;
+&lt;/script&gt;
+
+&lt;!-- 用  SolveSpace 畫四連桿 trace point 路徑--&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/213775851" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/213775851"&gt;20170419_Week10_Trace Point&lt;/a&gt; from &lt;a href="https://vimeo.com/mde40423206"&gt;40423206&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="SolveSpace"></category><category term="Onshape"></category><category term="Fossil"></category></entry><entry><title>20170329 Week 6</title><link href="./Week%206.html" rel="alternate"></link><published>2017-03-29T11:00:00+08:00</published><updated>2017-03-29T11:00:00+08:00</updated><author><name>40423206</name></author><id>tag:,2017-03-29:./Week 6.html</id><summary type="html">&lt;h3&gt;Fourbar 安裝 base&lt;/h3&gt;
 
 &lt;iframe src="https://player.vimeo.com/video/211451584" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
