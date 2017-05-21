@@ -70,9 +70,19 @@
 <v t="leo.20170325114417.3"><vh>上課內容1</vh></v>
 </v>
 </v>
-<v t="leo.20170404170806.1"><vh>20170322Week6</vh>
+<v t="leo.20170404170806.1" a="E"><vh>20170329Week6</vh>
 <v t="leo.20170404170806.2"><vh>課堂報告1</vh>
 <v t="leo.20170404170806.3"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170521153923.1" a="E"><vh>20170412Week8</vh>
+<v t="leo.20170521153923.2" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170521153923.3"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170521153925.1" a="E"><vh>20170429Week9</vh>
+<v t="leo.20170521153925.2" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170521153925.3"><vh>上課內容1</vh></v>
 </v>
 </v>
 <v t="leo.20170304121220.1" a="E"><vh>各式內容引用範例</vh>
@@ -99,6 +109,7 @@
 <v t="leo.20170325113943.1"><vh>@edit 20170322.md</vh></v>
 <v t="leo.20170404170456.1"><vh>@edit 20170329.md</vh></v>
 <v t="leo.20170419090833.1"><vh>@edit 20170419.md</vh></v>
+<v t="leo.20170521154251.1"><vh>@edit 20170503.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -848,6 +859,62 @@ Diff...
 2. 將 Fourbar 匯入 V-rep 加入馬達&lt;/p&gt;
 
 &lt;iframe src="https://vimeo.com/211452012" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170521153923.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170521153923.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170521153923.3"># Week 8
+
+&lt;p align="left"&gt;
+1. 小組互評: https://pygroup-ag100.rhcloud.com &lt;/p&gt;
+
+&lt;p align="left"&gt;
+2. 個人自評: http://mde1a2.kmol.info:8000/k96tgzh1ofbl &lt;/p&gt;
+</t>
+<t tx="leo.20170521153925.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170521153925.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170521153925.3"># Week 6
+
+###期中測驗
+
+&lt;p align="left"&gt;
+1. Fossil Server 實習查驗 &lt;/p&gt;
+
+&lt;p align="left"&gt;
+2. 四連桿機構協同 Trace Point 查驗 &lt;/p&gt;
+
+&lt;p align="left"&gt;
+3. Fourbar Walker OnShape 零件協同繪圖與組立查驗 &lt;/p&gt;
+
+&lt;p align="left"&gt;
+4. 分組協同零件展示 &lt;/p&gt;
+
+&lt;p align="left"&gt;
+&lt;a href="http://mde.tw/2017springcd/blog/midterm-collaboration-evaluation.html"&gt;．詳細內容&lt;/a&gt;&lt;/p&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
