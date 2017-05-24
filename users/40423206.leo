@@ -71,7 +71,7 @@
 </v>
 </v>
 <v t="leo.20170404170806.1" a="E"><vh>20170329Week6</vh>
-<v t="leo.20170404170806.2"><vh>課堂報告1</vh>
+<v t="leo.20170404170806.2" a="E"><vh>課堂報告1</vh>
 <v t="leo.20170404170806.3"><vh>上課內容1</vh></v>
 </v>
 </v>
@@ -858,7 +858,8 @@ Diff...
 &lt;p align="left"&gt;
 2. 將 Fourbar 匯入 V-rep 加入馬達&lt;/p&gt;
 
-&lt;iframe src="https://vimeo.com/211452012" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe src="https://player.vimeo.com/video/211452099" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/211452099"&gt;20170322_Week5_SolveSpace 匯入 V-rep&lt;/a&gt; from &lt;a href="https://vimeo.com/mde40423206"&gt;40423206&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 <t tx="leo.20170521153923.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -897,7 +898,7 @@ Diff...
 
 						
 </t>
-<t tx="leo.20170521153925.3"># Week 6
+<t tx="leo.20170521153925.3"># Week 9
 
 ###期中測驗
 

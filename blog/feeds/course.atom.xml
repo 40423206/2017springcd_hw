@@ -250,7 +250,7 @@ cgo.render(gear)
 &lt;/script&gt;
 
 &lt;p&gt;接著將設法處理兩種正齒輪嚙合的協同繪圖 (17t-11t-13t):&lt;/p&gt;
-&lt;p&gt;以及設法導出直線與圓弧倒圓角的繪圖流程&lt;/p&gt;</summary><category term="Brython"></category></entry><entry><title>Inspection and self evaluation(Week 8-10)</title><link href="./Week%208-10.html" rel="alternate"></link><published>2017-04-19T11:00:00+08:00</published><updated>2017-04-19T11:00:00+08:00</updated><author><name>40423206</name></author><id>tag:,2017-04-19:./Week 8-10.html</id><summary type="html">&lt;!-- 導入 Brython 標準程式庫 --&gt;
+&lt;p&gt;以及設法導出直線與圓弧倒圓角的繪圖流程:&lt;/p&gt;</summary><category term="Brython"></category></entry><entry><title>Inspection and self evaluation(Week 8-10)</title><link href="./Week%208-10.html" rel="alternate"></link><published>2017-04-19T11:00:00+08:00</published><updated>2017-04-19T11:00:00+08:00</updated><author><name>40423206</name></author><id>tag:,2017-04-19:./Week 8-10.html</id><summary type="html">&lt;!-- 導入 Brython 標準程式庫 --&gt;
 
 &lt;script type="text/javascript" src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js"&gt;
 &lt;/script&gt;
