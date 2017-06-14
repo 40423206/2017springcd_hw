@@ -245,7 +245,7 @@ Param.val=1.25824889117000760000
 AddParam
 
 Param.h.v.=80030001
-Param.val=0.10703811152641336000
+Param.val=0.10703811152641338000
 AddParam
 
 Param.h.v.=80030002
@@ -563,7 +563,7 @@ Entity.h.v=80030002
 Entity.type=2011
 Entity.construction=0
 Entity.actPoint.x=1.25824889117000760000
-Entity.actPoint.y=0.10703811152641336000
+Entity.actPoint.y=0.10703811152641338000
 Entity.actPoint.z=-0.00000000000000034186
 Entity.actVisible=1
 AddEntity
@@ -583,7 +583,7 @@ Entity.h.v=80030005
 Entity.type=2011
 Entity.construction=0
 Entity.actPoint.x=1.25824889117000760000
-Entity.actPoint.y=0.10703811152641336000
+Entity.actPoint.y=0.10703811152641338000
 Entity.actPoint.z=-0.00000000000000034186
 Entity.actVisible=1
 AddEntity
@@ -603,7 +603,7 @@ Entity.h.v=80030008
 Entity.type=2011
 Entity.construction=0
 Entity.actPoint.x=1.25824889117000760000
-Entity.actPoint.y=0.10703811152641336000
+Entity.actPoint.y=0.10703811152641338000
 Entity.actPoint.z=-0.00000000000000034186
 Entity.actVisible=1
 AddEntity
@@ -773,7 +773,7 @@ Entity.h.v=8003001c
 Entity.type=2011
 Entity.construction=0
 Entity.actPoint.x=1.25824889117000760000
-Entity.actPoint.y=0.10703811152641336000
+Entity.actPoint.y=0.10703811152641338000
 Entity.actPoint.z=-0.00000000000000034186
 Entity.actVisible=1
 AddEntity
