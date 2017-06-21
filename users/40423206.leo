@@ -27,12 +27,12 @@
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.1"><vh>@clean index.html</vh>
-<v t="yen.20170120110024.2"><vh>html</vh>
+<v t="yen.20170120110024.1" a="E"><vh>@clean index.html</vh>
+<v t="yen.20170120110024.2" a="E"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
-<v t="yen.20170120110024.4"><vh>body</vh>
-<v t="yen.20170120110024.5"><vh>reveal div</vh>
-<v t="yen.20170120110024.6"><vh>slides div</vh>
+<v t="yen.20170120110024.4" a="E"><vh>body</vh>
+<v t="yen.20170120110024.5" a="E"><vh>reveal div</vh>
+<v t="yen.20170120110024.6" a="E"><vh>slides div</vh>
 <v t="yen.20170120110024.7"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
@@ -44,45 +44,81 @@
 <v t="leo.20170304121232.3"><vh>上課內容1</vh></v>
 </v>
 </v>
-<v t="leo.20170304121240.1"><vh>20170301Week2</vh>
+<v t="leo.20170304121240.1" a="E"><vh>20170301Week2</vh>
 <v t="leo.20170304121240.2"><vh>課堂報告1</vh>
 <v t="leo.20170304121240.3"><vh>上課內容1</vh></v>
 </v>
-<v t="leo.20170304132216.1"><vh>課堂報告2</vh>
+<v t="leo.20170304132216.1" a="E"><vh>課堂報告2</vh>
 <v t="leo.20170304132216.2"><vh>上課內容2</vh></v>
 </v>
 <v t="leo.20170304121240.6"><vh>fourbar</vh>
 <v t="leo.20170304121240.7"><vh>影片</vh></v>
 </v>
 </v>
-<v t="leo.20170325114413.1"><vh>20170308Week3</vh>
+<v t="leo.20170325114413.1" a="E"><vh>20170308Week3</vh>
 <v t="leo.20170325114413.2"><vh>課堂報告1</vh>
 <v t="leo.20170325114413.3"><vh>上課內容1</vh></v>
 </v>
 </v>
-<v t="leo.20170325114415.1"><vh>20170315Week4</vh>
+<v t="leo.20170325114415.1" a="E"><vh>20170315Week4</vh>
 <v t="leo.20170325114415.2"><vh>課堂報告1</vh>
 <v t="leo.20170325114415.3"><vh>上課內容1</vh></v>
 </v>
 </v>
-<v t="leo.20170325114417.1"><vh>20170322Week5</vh>
+<v t="leo.20170325114417.1" a="E"><vh>20170322Week5</vh>
 <v t="leo.20170325114417.2"><vh>課堂報告1</vh>
 <v t="leo.20170325114417.3"><vh>上課內容1</vh></v>
 </v>
 </v>
-<v t="leo.20170404170806.1"><vh>20170329Week6</vh>
+<v t="leo.20170404170806.1" a="E"><vh>20170329Week6</vh>
 <v t="leo.20170404170806.2"><vh>課堂報告1</vh>
 <v t="leo.20170404170806.3"><vh>上課內容1</vh></v>
 </v>
 </v>
-<v t="leo.20170521153923.1"><vh>20170412Week8</vh>
-<v t="leo.20170521153923.2"><vh>課堂報告1</vh>
+<v t="leo.20170521153923.1" a="E"><vh>20170412Week8</vh>
+<v t="leo.20170521153923.2" a="E"><vh>課堂報告1</vh>
 <v t="leo.20170521153923.3"><vh>上課內容1</vh></v>
 </v>
 </v>
-<v t="leo.20170521153925.1"><vh>20170429Week9</vh>
-<v t="leo.20170521153925.2"><vh>課堂報告1</vh>
+<v t="leo.20170521153925.1" a="E"><vh>20170429Week9</vh>
+<v t="leo.20170521153925.2" a="E"><vh>課堂報告1</vh>
 <v t="leo.20170521153925.3"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170621083157.1" a="E"><vh>20170429Week10</vh>
+<v t="leo.20170621083157.2" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170621083157.3"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170621083159.1" a="E"><vh>20170429Week11</vh>
+<v t="leo.20170621083159.2" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170621083159.3"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170621083201.1" a="E"><vh>20170429Week12</vh>
+<v t="leo.20170621083201.2" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170621083201.3"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170621083204.1" a="E"><vh>20170429Week14</vh>
+<v t="leo.20170621083204.2" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170621083204.3"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170621083206.1" a="E"><vh>20170429Week15</vh>
+<v t="leo.20170621083206.2" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170621083206.3"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170621083210.1" a="E"><vh>20170429Week17</vh>
+<v t="leo.20170621083210.2" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170621083210.3"><vh>上課內容1</vh></v>
+</v>
+<v t="leo.20170621083921.1" a="E"><vh>課堂報告2</vh>
+<v t="leo.20170621083921.2"><vh>上課內容1</vh></v>
+</v>
+<v t="leo.20170621084018.1" a="E"><vh>課堂報告3</vh>
+<v t="leo.20170621084018.2"><vh>上課內容1</vh></v>
 </v>
 </v>
 <v t="leo.20170304121220.1"><vh>各式內容引用範例</vh>
@@ -918,6 +954,200 @@ Diff...
 
 &lt;p align="left"&gt;
 &lt;a href="http://mde.tw/2017springcd/blog/midterm-collaboration-evaluation.html"&gt;．詳細內容&lt;/a&gt;&lt;/p&gt;</t>
+<t tx="leo.20170621083157.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621083157.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621083157.3"># Week 10
+
+
+
+&lt;p align="left"&gt;
+https://github.com/mdecourse/cdw10 為提供 .py 程式功能的倉儲, 而 https://github.com/mdecourse/cdw10_task 則是將 cdw10 倉儲設為子模組的主倉儲. 一旦 cdw10 納入作為 cdw10_task gh-pages 模式下的子模組, 使用者就可以透過 cdw10_task 直接 import cdw10 倉儲中的程式碼與連組件&lt;/p&gt;</t>
+<t tx="leo.20170621083159.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621083159.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621083159.3"># Week 11
+
+###協同 2D 正齒輪傳動繪圖
+
+&lt;p align="left"&gt;
+ &lt;/p&gt;
+
+
+&lt;p align="left"&gt;
+&lt;a href="http://mde.tw/2017springcd/blog/brython-2d-spur-gear-matching.html"&gt;詳細內容1&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;p align="left"&gt;
+&lt;a href="http://mde.tw/2017springcd/blog/brython-2d-spur-gear-matching-2.html"&gt;詳細內容2&lt;/a&gt;&lt;/p&gt;</t>
+<t tx="leo.20170621083201.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621083201.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621083201.3"># Week 12
+
+
+
+&lt;p align="left"&gt;
+ 各組以協同方式利用 2D 與 3D 繪圖設計方法, 完成行走機構所需齒輪減速組合之分析、模擬與製作.&lt;/p&gt;
+
+</t>
+<t tx="leo.20170621083204.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621083204.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621083204.3"># Week 14
+
+###架設伺服器主機
+
+&lt;p align="left"&gt;
+1. 純 IPv6 網路的主機
+
+詳細的安裝過程請參考這位同學的介紹: &lt;/p&gt;
+
+
+&lt;p align="left"&gt;
+&lt;a href="https://40423245.github.io/2017springcd_hw/blog/2017spring-cd-W14.html"&gt;40423245&lt;/a&gt;&lt;/p&gt;</t>
+<t tx="leo.20170621083206.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621083206.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621083206.3"># Week 15
+
+###從單一 2D 正齒輪繪圖到齒輪組嚙合
+
+&lt;p align="left"&gt;利用漸開線原理, 以 Brython 繪製單一正齒輪廓:
+
+網誌：https://40423206.github.io/2017springcd_hw/blog/Week%2015.html</t>
+<t tx="leo.20170621083210.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621083210.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621083210.3"># Week 17
+
+###期末協同查驗與自評
+
+&lt;p align="left"&gt;
+1各組員倉儲中的 Github 檔案推送&lt;/p&gt;
+
+&lt;p align="left"&gt;
+2各組員網誌上的 2D 繪圖, 並將程式碼顯示在繪圖網誌文章中&lt;/p&gt;
+
+&lt;p align="left"&gt;
+3各組員倉儲中的子模組建立與運用, 並將程式碼顯示在繪圖網誌文章中&lt;/p&gt;
+
+
+
+&lt;p align="left"&gt;
+&lt;a href="http://mde.tw/2017springcd/blog/midterm-collaboration-evaluation.html"&gt;詳細內容&lt;/a&gt;&lt;/p&gt;</t>
+<t tx="leo.20170621083921.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621083921.2">
+&lt;p align="left"&gt;
+4各組員 Solvespace 近端零組件繪圖, 並在各組員網誌中顯示指定的零組件&lt;/p&gt;
+
+&lt;p align="left"&gt;
+5各組員 Solvespace 零件轉入 V-rep, 並設定驅動零件進行動態模擬&lt;/p&gt;
+
+&lt;p align="left"&gt;
+6各組員說明在分組行走機構模擬與實作過程中所扮演的角色, 並利用影片檔說明所負責完成的任務&lt;/p&gt;
+
+
+
+</t>
+<t tx="leo.20170621084018.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084018.2">&lt;p align="left"&gt;
+7各組以協同方式整合各組組員所完成的倉儲, 網誌與操作影片後, 以學號名稱當作子目錄, 其中放入各組員上述各題所完成的操作影片後, 上傳到各組在系上的 Fossil SCM 倉儲, 並設法用各組的 Github Pages 進行分組簡報.&lt;/p&gt;
+
+&lt;p align="left"&gt;
+&lt;a href="http://mde.tw/2017springcd/blog/final-collaboration-evaluation.html"&gt;詳細內容&lt;/a&gt;&lt;/p&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
